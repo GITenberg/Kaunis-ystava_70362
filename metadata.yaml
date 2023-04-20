@@ -1,0 +1,47 @@
+_repo: Kaunis-ystava_70362
+_version: 0.0.1
+alternative_title: Bel-Ami. Finnish
+contributor:
+  translator:
+    agent_name: Nuormaa, Arvi
+    birthdate: 1895
+    deathdate: 1956
+    gutenberg_agent_id: '55730'
+    url: http://www.gutenberg.org/2009/agents/55730
+    wikipedia: https://fi.wikipedia.org/wiki/Arvi_Nuormaa
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - https://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2023-03-24'
+identifiers:
+  gutenberg: '70362'
+language: fi
+pgterms:marc905: 20221125044742maupassant
+pgterms:marc906: '1955'
+pgterms:marc907: FI
+production_note: Anna Siren and Tapio Riikonen
+publication_note: '  $aFinland :$bKust.Oy Tammi, $c1955.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Journalists -- Fiction'
+- !lcsh 'Seduction -- Fiction'
+- !lcsh 'Paris (France) -- History -- 1870-1940 -- Fiction'
+- !lcsh 'France -- Politics and government -- 1870-1940 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Kaunis ystävä
+url: http://www.gutenberg.org/ebooks/70362
