@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '55730'
     url: http://www.gutenberg.org/2009/agents/55730
     wikipedia: https://fi.wikipedia.org/wiki/Arvi_Nuormaa
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -21,6 +24,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - https://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70362#Kaunis-ystava
 gutenberg_issued: '2023-03-24'
 identifiers:
   gutenberg: '70362'
